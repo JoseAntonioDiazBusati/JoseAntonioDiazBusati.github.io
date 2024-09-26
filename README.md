@@ -3,4 +3,4 @@ Aquí trataremos acerca de las principales dudas de cómo es y cómo se juega el
 * [Basico](bases.md)
 * [Avanzado](avanzado.md)
 * [Ideas y consejos](ideas_consejos.md)
-[dado](d20.png)
+* [dado](d20.png)
